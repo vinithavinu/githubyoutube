@@ -15,9 +15,14 @@ h1{
     align-items: center;
     padding-left: 130px;
 }
-p{
+.para{
     color: rgb(25, 117, 117);
     font-size: 27px;
     font-weight: 700;
     text-decoration: underline brown;
+}
+.vini{
+    color: rgb(23, 139, 58);
+    font-size: 27px;
+    font-weight: 700;
 }
