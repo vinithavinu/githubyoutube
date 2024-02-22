@@ -1,1 +1,1 @@
-# 20 days of GITHUB :)
+# 20 DAYS OF GITHUB :)
